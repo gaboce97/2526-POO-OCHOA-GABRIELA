@@ -95,8 +95,8 @@ def combate(jugador_1, jugador_2):
         print("Empate")
 
 
-personaje_1 = Guerrero("Guts", 20, 10, 4, 100, 4)
-personaje_2 = Mago("Vanessa", 5, 15, 4, 100, 3)
+personaje_1 = Guerrero("Guts", 20, 10, 45, 100, 2)
+personaje_2 = Mago("Vanessa", 50, 30, 30, 100, 2)
 
 personaje_1.atributos()
 personaje_2.atributos()
