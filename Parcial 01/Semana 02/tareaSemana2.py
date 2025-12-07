@@ -96,7 +96,7 @@ def combate(jugador_1, jugador_2):
 
 
 personaje_1 = Guerrero("Guts", 20, 10, 45, 100, 2)
-personaje_2 = Mago("Vanessa", 50, 30, 30, 100, 2)
+personaje_2 = Mago("Vanessa", 50, 30, 40, 100, 2)
 
 personaje_1.atributos()
 personaje_2.atributos()
