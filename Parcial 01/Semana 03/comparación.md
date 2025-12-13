@@ -5,7 +5,7 @@ En el ejemplo de cálculo del promedio semanal de temperaturas, podemos observar
 la programación tradicional y la programación orientada a objetos (POO) en términos de los cuatro pilares
 fundamentales: abstracción, encapsulamiento, herencia y polimorfismo.
 
-Si vemos el ejemplo de progrmamación tradicional, el código se organiza en funciones y procedimientos que operan sobre datos
+Si vemos el ejemplo de programación tradicional, el código se organiza en funciones y procedimientos que operan sobre datos
 globales. No hay una estructura clara que agrupe los datos y las funciones relacionadas, lo que puede llevar a un código 
 menos modular y más difícil de mantener.
 
