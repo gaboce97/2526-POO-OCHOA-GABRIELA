@@ -1,5 +1,5 @@
 """
-Módulo: inventario.py
+Módulo: inventario_modificado.py
 Descripción: Define la clase Inventario que gestiona la colección de productos.
 Autor: Sistema de Gestión de Inventarios
 """
