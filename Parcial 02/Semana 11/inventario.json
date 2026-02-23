@@ -1,0 +1,80 @@
+[
+    {
+        "id": "1",
+        "nombre": "Arroz Flor - arroba",
+        "cantidad": 20,
+        "precio": 10.0
+    },
+    {
+        "id": "2",
+        "nombre": "Azúcar blanca 1kg",
+        "cantidad": 60,
+        "precio": 0.9
+    },
+    {
+        "id": "3",
+        "nombre": "Sal Crisal 1kg",
+        "cantidad": 40,
+        "precio": 0.45
+    },
+    {
+        "id": "4",
+        "nombre": "Aceite la Favorita 1L",
+        "cantidad": 30,
+        "precio": 2.75
+    },
+    {
+        "id": "5",
+        "nombre": "Fideos Cayambe 400g",
+        "cantidad": 45,
+        "precio": 0.65
+    },
+    {
+        "id": "6",
+        "nombre": "Harina de Trigo YA 1Kg",
+        "cantidad": 30,
+        "precio": 1.1
+    },
+    {
+        "id": "7",
+        "nombre": "Avena Quaker 400g",
+        "cantidad": 25,
+        "precio": 1.2
+    },
+    {
+        "id": "8",
+        "nombre": "Fréjol negro 1lb",
+        "cantidad": 30,
+        "precio": 0.75
+    },
+    {
+        "id": "9",
+        "nombre": "Lentejas 1lb",
+        "cantidad": 30,
+        "precio": 0.7
+    },
+    {
+        "id": "10",
+        "nombre": "Maíz tostado 200g",
+        "cantidad": 20,
+        "precio": 0.6
+    },
+    {
+        "id": "11",
+        "nombre": "Leche Toni funda 1L",
+        "cantidad": 60,
+        "precio": 0.9
+    },
+    {
+        "id": "12",
+        "nombre": "Huevos unidad",
+        "cantidad": 300,
+        "precio": 0.18
+    },
+    {
+        "id": "13",
+        "nombre": "Coca-Cola 600ml",
+        "cantidad": 45,
+        "precio": 0.75
+    }
+]
