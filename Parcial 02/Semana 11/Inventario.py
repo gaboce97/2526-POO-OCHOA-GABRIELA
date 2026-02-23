@@ -1,6 +1,6 @@
 """
 Sistema Avanzado de Gestión de Inventario de un minimarket
-==========================================
+
 Descripción: Sistema de gestión de inventario utilizando POO, colecciones y
              almacenamiento persistente en archivos JSON.
 

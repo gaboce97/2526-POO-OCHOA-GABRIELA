@@ -292,7 +292,7 @@ Desde la terminal o desde PyCharm:
 Al ejecutarlo por primera vez, el inventario estará vacío y se creará el
 archivo inventario.json automáticamente cuando se agregue el primer producto.
 En ejecuciones posteriores, el inventario se restaurará con los datos guardados.
-"""
+
 
 
 # ══════════════════════════════════════════════════════════════════════════════

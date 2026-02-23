@@ -76,5 +76,11 @@
         "nombre": "Coca-Cola 600ml",
         "cantidad": 45,
         "precio": 0.75
+    },
+    {
+        "id": "14",
+        "nombre": "Canguil 1L",
+        "cantidad": 30,
+        "precio": 0.5
     }
 ]
